@@ -1,9 +1,9 @@
 {
-  "name": "gb",
+  "name": "x-graptosedum",
   "version": "1.0.0",
   "description": "海带丝干贝的工具包",
   "bin": {
-    "gb": "bin/index.js"
+    "xg": "bin/index.js"
   },
   "dependencies": {
     "chalk": "^4.1.2",
