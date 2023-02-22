@@ -1,0 +1,25 @@
+{
+  "name": "gb",
+  "version": "1.0.0",
+  "description": "海带丝干贝的工具包",
+  "bin": {
+    "gb": "bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haidaisiganbei/gb.git"
+  },
+  "author": "海带丝干贝",
+  "license": "ISC"
+}
